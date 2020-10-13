@@ -1,0 +1,8 @@
+https://cayxinh.vn
+https://cayxinh.vn/tin-tuc/cay-phong-thuy-theo-tuoi/page/{page}|1|2
+#content > div > div.large-9.col > div > div div > a
+div > header > div > h1
+div > div.entry-content.single-page
+
+
+
